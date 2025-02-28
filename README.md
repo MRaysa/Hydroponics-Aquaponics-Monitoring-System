@@ -1,6 +1,7 @@
 # 🌱 Integrated Hydroponics & Aquaponics Monitoring System
 
-![Hardware Setup](hardware_setup.jpg)
+![Hardware Setup](Images/hardware_setup.jpg)
+
 
 ## 📌 Project Overview  
 This project is part of **CSE216: Microprocessor Interfacing & Assembly Language**, integrating **Hydroponics & Aquaponics** with **IoT-based monitoring**. It optimizes plant growth and water quality using **microcontrollers and sensors**.
